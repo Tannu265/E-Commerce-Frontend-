@@ -121,7 +121,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## 🙌 Author
 
 **Tannu Jha**
-Frontend Developer | React Enthusiast
+- Frontend Developer
 
 ---
 Happy Coding! 💙⚛️
